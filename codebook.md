@@ -1,8 +1,3 @@
----
-title: "Code Book"
-output: html_document
----
-
 ## Identifiers 
 
  - `subject` ID of the test subject in the experiment represented by an integer value 1-30
